@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "johnny cash",
+    "album": "walk the line",
+    "image-name":"johnnycash.png",
+    "condition": "good",
+    "price": "100",
+    "additional":""
+  },
+  {
+    "artist": "the beatles",
+    "album": "blue album",
+    "image-name":"thebeatles.png",
+    "condition": "poor",
+    "price": "120",
+    "additional":""
+  },
+  {
+    "artist": "rolling stones",
+    "album": "cant't always get what you want",
+    "image-name":"rollingstones.png",
+    "condition": "average",
+    "price": "80",
+    "additional":""
+  },
+  {
+    "artist": "white lies",
+    "album": "blood",
+    "image-name":"whitelies.png",
+    "condition": "good",
+    "price": "180",
+    "additional":""
+  },
+  {
+    "artist": "led zeppelin",
+    "album": "II",
+    "image-name":"ledzeppelin.png",
+    "condition": "average",
+    "price": "70",
+    "additional":""
+  }
+]
